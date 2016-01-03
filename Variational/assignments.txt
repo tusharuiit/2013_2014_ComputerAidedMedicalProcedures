@@ -1,0 +1,15 @@
+1) Complete the implementation of the gradient descent approach in grad_desc_assignment.m
+
+2) Compare the result with the ones obtained by the implementation of the more sophisticated
+   method in Bresson.m.
+
+3) Uncomment lines 33-34 in grad_desc_assignment.m and lines 42-43 in Bresson.m - what happens and why?
+
+4) Change the stepsize as well as the regularization parameter in grad_desc_assignment.m - what happens?
+
+5) Visualize the computed gradient - can the explain what you observe?
+
+6) Change the initialization of all two implementations- what happens?
+
+MaximilianBaust@t-online.de
+ 
